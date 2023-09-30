@@ -1,0 +1,15 @@
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\matheus.ramos1\source\repos\Classes\Classes\obj\Debug\net6.0\ref\Classes.dll
